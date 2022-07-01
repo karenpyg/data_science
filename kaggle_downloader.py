@@ -1,4 +1,4 @@
-from Ipython.display import clear_output
+from IPython.display import clear_output
 !pip install --upgrade kaggle 
 clear_output()
 from google.colab import files
